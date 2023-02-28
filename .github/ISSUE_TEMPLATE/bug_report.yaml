@@ -25,6 +25,7 @@ body:
      description: >
        Confirm the latest workflow used.
      options:
+       - 1.0.3 (Edge)
        - 2FA-Read Code
        - About Mac
        - Airdrop
